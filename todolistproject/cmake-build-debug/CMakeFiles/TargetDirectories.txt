@@ -1,0 +1,3 @@
+C:/Users/bakhaalle/CLionProjects/todolistproject/cmake-build-debug/CMakeFiles/todolistproject.dir
+C:/Users/bakhaalle/CLionProjects/todolistproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bakhaalle/CLionProjects/todolistproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

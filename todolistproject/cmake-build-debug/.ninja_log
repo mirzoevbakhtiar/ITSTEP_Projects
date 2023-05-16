@@ -1,0 +1,8 @@
+# ninja log v5
+24	469	7059308531055172	CMakeFiles/todolistproject.dir/sort.cpp.obj	101a3dba2350ef06
+10	472	7059308531055172	CMakeFiles/todolistproject.dir/strtonum.cpp.obj	cbbcf095967a550
+14	473	7059308531095059	CMakeFiles/todolistproject.dir/print.cpp.obj	b39a4e2142631ddb
+19	480	7059308531189892	CMakeFiles/todolistproject.dir/start.cpp.obj	5452c754ad4adaf
+0	481	7059308531199886	CMakeFiles/todolistproject.dir/main.cpp.obj	4a8c251f9f9b6b4e
+4	494	7059308531349490	CMakeFiles/todolistproject.dir/edit.cpp.obj	76ac8e558f1053f9
+494	736	7059308533705282	todolistproject.exe	7be111008140d141
